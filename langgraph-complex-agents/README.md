@@ -18,18 +18,19 @@ The repository is organized by course modules, progressing from basic concepts t
 ```text
 langgraph-complex-agents/
 ├── 01_basics/
-│   ├── 01_hello_world.ipynb       # Basic StateGraph setup
-│   ├── 02_multiple_inputs.ipynb   # Handling complex state schemas
-│   └── 03_sequential_nodes.ipynb  # Connecting multiple nodes
+│   ├── 01_hello_world.ipynb       
+│   ├── 01_exercise_graph_1.ipynb
+│   ├── 02_multiple_inputs.ipynb   
+│   └── 03_sequential_nodes.ipynb  
 ├── 02_control_flow/
-│   ├── 01_conditional_edges.ipynb # Router logic (if/else in graphs)
-│   └── 02_looping_graphs.ipynb    # Cyclic graphs (Loops)
+│   ├── 01_conditional_edges.ipynb 
+│   └── 02_looping_graphs.ipynb    
 ├── 03_agents/
-│   ├── 01_simple_bot.ipynb        # Basic LLM integration
-│   ├── 02_memory_bot.ipynb        # Chatbot with conversation history (Persistence)
-│   ├── 03_react_agent.ipynb       # ReAct Agent (Reasoning + Acting with Tools)
-│   ├── 04_drafter_agent.ipynb     # Human-in-the-Loop (Collaboration)
-│   └── 05_rag_agent.ipynb         # Retrieval Augmented Generation Agent
-├── .env.example                   # Template for environment variables
-├── requirements.txt               # Python dependencies
+│   ├── 01_simple_bot.ipynb       
+│   ├── 02_memory_bot.ipynb        
+│   ├── 03_react_agent.ipynb       
+│   ├── 04_drafter_agent.ipynb     
+│   └── 05_rag_agent.ipynb         
+├── .env.example                   
+├── requirements.txt               
 └── README.md
