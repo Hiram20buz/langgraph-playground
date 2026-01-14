@@ -20,7 +20,8 @@ langgraph-complex-agents/
 ├── 01_basics/
 │   ├── 01_hello_world.ipynb       
 │   ├── 01_exercise_graph_1.ipynb
-│   ├── 02_multiple_inputs.ipynb   
+│   ├── 02_multiple_inputs.ipynb
+│   ├── 02_exercise_graph_2.ipynb   
 │   └── 03_sequential_nodes.ipynb  
 ├── 02_control_flow/
 │   ├── 01_conditional_edges.ipynb 
