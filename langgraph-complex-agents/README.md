@@ -27,7 +27,8 @@ langgraph-complex-agents/
 ├── 02_control_flow/
 │   ├── 01_conditional_edges.ipynb
 │   ├── 01_exercise_graph_4.ipynb
-│   └── 02_looping_graphs.ipynb    
+│   ├── 02_looping_graphs.ipynb
+│   └── 02_exercise_graph_5.ipynb   
 ├── 03_agents/
 │   ├── 01_simple_bot.ipynb       
 │   ├── 02_memory_bot.ipynb        
